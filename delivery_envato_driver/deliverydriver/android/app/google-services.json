@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583030644669",
+    "project_id": "shiptday-442db",
+    "storage_bucket": "shiptday-442db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583030644669:android:268fcc1cf494b1e0cb7cd4",
+        "android_client_info": {
+          "package_name": "com.newapp.name"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583030644669-k3j0akjje69mqg3uvcm4jorffb0he4gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNzOMnGz8UqNALagEKPeSeVELJC0jwFsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583030644669-k3j0akjje69mqg3uvcm4jorffb0he4gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
